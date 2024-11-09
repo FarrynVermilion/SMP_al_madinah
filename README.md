@@ -69,3 +69,5 @@ Keterangan
 Jalanin 
 php artisan migrate --seed, jangan lupa bikin DB dengan nama SMP_al_madinah
 php artisan serve, jangan lupa ini buat jalanin laravel 
+User : admin@nowui.com
+Pass : secret
